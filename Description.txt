@@ -1,0 +1,1 @@
+A high-performance Arabic-English vocabulary learning engine built with C++ and Qt Framework. It utilizes Half-Life Regression (HLR) to model human memory decay, automatically scheduling reviews based on personalized stability tiers and recall probabilities.
