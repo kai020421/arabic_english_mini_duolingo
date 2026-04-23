@@ -1,0 +1,13 @@
+QT += widgets
+
+CONFIG += c++17
+
+# Specify the header files
+HEADERS += word.h
+
+# Specify the source files
+SOURCES += main.cpp
+
+# Target name
+TARGET = VocabHLR
+TEMPLATE = app
